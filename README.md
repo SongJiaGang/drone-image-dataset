@@ -12,7 +12,7 @@ Usage Instructions
 Clone this repository locally:
 
 bash
-git clone https://github.com/your-username/your-repository-name.git  
+git clone https://github.com/SongJiaGang/drone-image-dataset/edit/main 
 Download or use the data as required.
 
 Intended Use Cases
